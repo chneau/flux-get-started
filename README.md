@@ -1,6 +1,6 @@
 # flux-get-started
 
-[![CircleCI](https://circleci.com/gh/fluxcd/flux-get-started.svg?style=svg)](https://circleci.com/gh/fluxcd/flux-get-started)
+[![CircleCI](https://circleci.com/gh/chneau/flux-get-started.svg?style=svg)](https://circleci.com/gh/chneau/flux-get-started)
 
 We published a step-by-step run-through on how to use Flux and Helm Operator [over
 here](https://github.com/fluxcd/flux/blob/master/docs/tutorials/get-started-helm.md).
